@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "chrisli.cr-theme",
+        "editorconfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+        "lokalise.i18n-ally",
+        "antfu.iconify",
+        "antfu.vite",
+        "antfu.unocss",
+        "csstools.postcss",
+        "antfu.goto-alias",
+        "vue.volar"
+    ]
+}
